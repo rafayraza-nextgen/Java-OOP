@@ -1,0 +1,2 @@
+Interfaces pure abstraction hote hain
+Interfaces ko java ke andar extends nahi karte yahan par interfaces ko implement karte hain

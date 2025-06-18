@@ -1,0 +1,2 @@
+Abstraction main
+Pahle base class ka constructor call hua phir derived class ka constructor call hua is ko constructor chaining kehte hain

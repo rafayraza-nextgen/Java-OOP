@@ -1,0 +1,3 @@
+Encapsulation ka matlab dhak lena
+jaise hum ne data aur functions ko dhak lia hai aik he unit main 
+to classes banane ke matlab aur objects banane ka matlab is encapsulation

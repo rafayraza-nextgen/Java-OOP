@@ -1,0 +1,4 @@
+Data is possible in java through encapsulation
+with the help of access modifiers
+
+Data hiding is the process of protecting members of class from unintended changes whereas, abstraction is hiding the implementation details and showing only important/useful parts to the user.
